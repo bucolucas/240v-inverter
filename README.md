@@ -1,15 +1,17 @@
 # 240v-inverter
 
-Parameters:
+Device 1: Inverter
 
-Minimum Input: 280 Volts DC 
+  Parameters:
 
-Maximum Input: 380 Volts DC
+    Minimum Input: 280 Volts DC 
 
-Output: 240 Volts AC Split Phase (two 120 Volt Legs)
+    Maximum Input: 380 Volts DC
 
-Output Limit: 50 amps (12,000 watt total)
+    Output: 240 Volts AC Split Phase (two 120 Volt Legs)
 
-Frequency 60Hz
+    Output Limit: 50 amps (12,000 watt total)
 
-Additional: Output should use split phase transformer, so you can use 120 Volts AC as well
+    Frequency: 60Hz
+
+
